@@ -18,7 +18,7 @@ The main goals of the Palmer Penguins Project are:
 
 3. **Descriptive Statistics:** Calculate and analyze descriptive statistics to summarize key features of the penguin species, such as average measurements, distributions, and variations.
 
-4. **Visualization:** Create compelling visualizations to represent the data effectively, including scatter plots, histograms, and box plots to highlight differences between species.
+4. **Visualization:** Create compelling visualizations to represent the data effectively, including scatter plots, histograms, and violin plots to highlight differences between species.
 
 5. **Species Comparison:** Compare the characteristics of Adélie, Chinstrap, and Gentoo penguins to identify any significant differences in size, weight, or other attributes.
 
